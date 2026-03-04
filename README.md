@@ -44,12 +44,12 @@ Android Emülatör: Terminal ekranı geldiğinde klavyeden a tuşuna basarak uyg
 🎥 Uygulama Demo Videosu
 Uygulamanın canlı kullanımı, arayüz geçişleri ve pembe temalı tasarımı aşağıdaki videoda gösterilmiştir:
 
-İzlemek için Tıklayın: Meme Sağlığım Tanıtım Videosu (YouTube Shorts)
+İzlemek için Tıklayın: Meme Sağlığım Tanıtım Videosu "https://www.youtube.com/shorts/c42NPzMYUsY?feature=share" (YouTube Shorts)
 
 📥 Derlenmiş Paketler (Build Artifacts)
 Uygulamanın Android cihazlara kuruluma hazır profesyonel versiyonu aşağıdadır:
 
-Android Paketi (AAB): Meme Sağlığım v1.0.0 İndir
+Android Paketi (AAB): Meme Sağlığım v1.0.0 "https://expo.dev/artifacts/eas/a12tAnXrhVUPFmgQNA1vyZ.aab"  İndir
 
 Önemli Not: Google Play standartlarına uygun .aab (Android App Bundle) formatı üretilmiştir. SDK 34 yapılandırması ve newArchEnabled: false ayarı ile %100 stabilite sağlanmıştır.
 
